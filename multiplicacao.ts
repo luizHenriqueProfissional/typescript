@@ -1,4 +1,4 @@
-const calculaArea = (base: number, altura: number) => {
+const calculaArea = (base: number, altura: number):number => {
     const area = base * altura;
     return area;
 }
